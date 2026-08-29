@@ -41,7 +41,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful, constructi
 
 > 💡 **Tip:** use the **Q&A** category for questions that have a clear answer. Mark the best answer as **accepted** when it helped you — it makes the answer easy to find for everyone else, and it's how the community keeps good answers discoverable.
 
-- **Start a Discussion:** [rizer001-Development Discussions](https://github.com/rizer001-Development/Discussions/discussions)
+- **Start a Discussion:** [rizer001-Development Discussions](https://github.com/rizer001-Development/.github/discussions)
 - **Chat with us live:** [Discord](https://dsc.gg/rizer001-Development)
 
 Use **Issues** only for concrete, actionable problems (bugs) or well-scoped feature requests — see below.
@@ -182,7 +182,7 @@ By submitting a contribution, you agree that your work will be licensed under th
 
 ## 💬 Still Stuck?
 
-- **Discussions:** [rizer001-Development Discussions](https://github.com/rizer001-Development/Discussions/discussions)
+- **Discussions:** [rizer001-Development Discussions](https://github.com/rizer001-Development/.github/discussions)
 - **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
 - **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
 
