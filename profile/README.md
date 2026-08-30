@@ -1,6 +1,4 @@
-<div align="center">
-
-# ⚡ rizer001-Development
+# rizer001-Development
 
 **Development of various software.**
 
@@ -9,13 +7,11 @@
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](https://github.com/rizer001-Development?tab=License-1-ovl-file)
 [![Email](https://img.shields.io/badge/Email-dan.al.zhu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan.al.zhu@gmail.com)
 
-</div>
-
 ---
 
-## 🚀 Our Projects
+## Our Projects
 
-### 🎮 Minecraft
+### Minecraft
 
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -26,7 +22,7 @@
 | [**CubixSMP**](https://github.com/rizer001-Development/CubixSMP) | A plugin for the Cubix server that adds essential features | Java |
 | [**Reactive**](https://github.com/rizer001-Development/Reactive) | A fork of Purpur focused on ease of use and flexibility | Java |
 
-### 🛠️ Utilities
+### Utilities
 
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -35,7 +31,7 @@
 | [**UltraMonitor**](https://github.com/rizer001-Development/UltraMonitor) | Open-source monitor for system sensors and stress tests | Java |
 | [**NPPsim**](https://github.com/rizer001-Development/NPPsim) | Nuclear Power Plant Control Simulator | Java |
 
-### 💬 Communication
+### Communication
 
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -44,28 +40,24 @@
 
 ---
 
-## 📊 Organization Stats
+## Organization Stats
 
-<div align="center">
-
-| 🔢 Repositories | 💻 Languages | 📜 License |
+| Repositories | Languages | License |
 |:---:|:---:|:---:|
 | **14** | Java, Kotlin, TypeScript | **AGPL-3.0** |
 
-</div>
+---
+
+## Community
+
+- **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
+- **Website:** [rizer001.opik.net](https://rizer001.opik.net)
+- **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
+- **Discussions:** [GitHub Discussions](https://github.com/rizer001-Development/.github/discussions)
 
 ---
 
-## 🌐 Community
-
-- 💬 **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
-- 🌍 **Website:** [rizer001.opik.net](https://rizer001.opik.net)
-- 📧 **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/rizer001-Development/.github/discussions)
-
----
-
-## 📄 License
+## License
 
 All projects in this organization are licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
 
@@ -73,7 +65,7 @@ This means you are free to use, modify, and distribute the software, but any mod
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or start a discussion.
 
@@ -85,8 +77,4 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or st
 
 ---
 
-<div align="center">
-
-**Made by [rizer001](https://github.com/rizer001)**
-
-</div>
+Made by [rizer001](https://github.com/rizer001)

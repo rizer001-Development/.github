@@ -2,11 +2,11 @@
 
 Thank you for your interest in contributing! This guide applies to all repositories under the **rizer001-Development** organization and explains how to ask for help, report bugs, suggest features, and submit code.
 
-Whether you're fixing a typo or building a whole new module — you're welcome here, and every legitimate contribution counts. ❤️
+Whether you're fixing a typo or building a whole new module — you're welcome here, and every legitimate contribution counts.
 
 ---
 
-## 🗺️ Table of Contents
+## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [Getting Help — Questions & Discussions](#getting-help--questions--discussions)
@@ -39,7 +39,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful, constructi
 - "Why isn't Y working on my server / setup?"
 - General usage help and ideas.
 
-> 💡 **Tip:** use the **Q&A** category for questions that have a clear answer. Mark the best answer as **accepted** when it helped you — it makes the answer easy to find for everyone else, and it's how the community keeps good answers discoverable.
+> **Tip:** use the **Q&A** category for questions that have a clear answer. Mark the best answer as **accepted** when it helped you — it makes the answer easy to find for everyone else, and it's how the community keeps good answers discoverable.
 
 - **Start a Discussion:** [rizer001-Development Discussions](https://github.com/rizer001-Development/.github/discussions)
 - **Chat with us live:** [Discord](https://dsc.gg/rizer001-Development)
@@ -176,14 +176,14 @@ All projects in this organization are licensed under the **GNU Affero General Pu
 
 By submitting a contribution, you agree that your work will be licensed under the same **AGPLv3** license as the project you're contributing to.
 
-> ⚠️ AGPLv3 is **copyleft and network-interactive**: modifications must stay open-source, and if you run a modified version as a service, you must offer the source to its users. Make sure you're comfortable with this before contributing.
+> AGPLv3 is **copyleft and network-interactive**: modifications must stay open-source, and if you run a modified version as a service, you must offer the source to its users. Make sure you're comfortable with this before contributing.
 
 ---
 
-## 💬 Still Stuck?
+## Still Stuck?
 
 - **Discussions:** [rizer001-Development Discussions](https://github.com/rizer001-Development/.github/discussions)
 - **Discord:** [Join our server](https://dsc.gg/rizer001-Development)
 - **Email:** [dan.al.zhu@gmail.com](mailto:dan.al.zhu@gmail.com)
 
-Thank you for helping make the rizer001-Development projects better! 🎉
+Thank you for helping make the rizer001-Development projects better!

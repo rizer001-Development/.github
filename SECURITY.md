@@ -4,22 +4,22 @@ The **rizer001-Development** organization takes security seriously. We appreciat
 
 ---
 
-## 📌 Supported Versions
+## Supported Versions
 
 Security updates are provided for the **latest release** of each project.
 
 | Project | Supported |
 |---------|-----------|
-| SoundPad | ✅ Latest release |
-| PowerLaunch | ✅ Latest release |
-| DevChats | ✅ Latest release |
-| IpParser | ✅ Latest release |
-| rizer001_Website | ✅ Always running latest |
-| All other projects | ✅ Latest release |
+| SoundPad | Latest release |
+| PowerLaunch | Latest release |
+| DevChats | Latest release |
+| IpParser | Latest release |
+| rizer001_Website | Always running latest |
+| All other projects | Latest release |
 
 ---
 
-## 🚨 Reporting a Vulnerability
+## Reporting a Vulnerability
 
 **Do NOT open a public Issue for security vulnerabilities.**
 
@@ -41,7 +41,7 @@ Use [GitHub's private vulnerability reporting](https://github.com/rizer001-Devel
 
 ---
 
-## 📝 What to Include
+## What to Include
 
 When reporting a vulnerability, please provide:
 
@@ -53,7 +53,7 @@ When reporting a vulnerability, please provide:
 
 ---
 
-## ⏱️ Response Timeline
+## Response Timeline
 
 | Action | Timeline |
 |--------|----------|
@@ -64,7 +64,7 @@ When reporting a vulnerability, please provide:
 
 ---
 
-## ✅ Disclosure Policy
+## Disclosure Policy
 
 - We follow **responsible disclosure** — please do not publicly disclose the vulnerability until a fix is available.
 - We will credit reporters in the release notes (unless you prefer to remain anonymous).
@@ -72,7 +72,7 @@ When reporting a vulnerability, please provide:
 
 ---
 
-## 🔒 Security Best Practices for Contributors
+## Security Best Practices for Contributors
 
 When contributing code to our projects:
 
@@ -85,7 +85,7 @@ When contributing code to our projects:
 
 ---
 
-## 📚 Resources
+## Resources
 
 - [GitHub Security Advisories](https://docs.github.com/en/security/advisories)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
@@ -93,4 +93,4 @@ When contributing code to our projects:
 
 ---
 
-Thank you for helping keep our projects and users safe! 🔐
+Thank you for helping keep our projects and users safe!

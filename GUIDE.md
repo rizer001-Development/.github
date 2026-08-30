@@ -1,4 +1,4 @@
-# 🧭 Guide to the rizer001-Development Organization
+# Guide to the rizer001-Development Organization
 
 This guide explains how the **rizer001-Development** organization is put together, what projects we maintain, and how everything stays consistent across the organization. It applies to **all** repositories equally.
 
@@ -6,7 +6,7 @@ For *contributing* to the code, see our [Contributing Guide](CONTRIBUTING.md). F
 
 ---
 
-## 🗺️ Table of Contents
+## Table of Contents
 
 - [Who We Are](#who-we-are)
 - [Our Projects](#our-projects)
@@ -102,4 +102,4 @@ Desktop tools are designed to run **portably** — no global installs, no leftov
 
 ---
 
-Thank you for being part of rizer001-Development! 🎉
+Thank you for being part of rizer001-Development!
