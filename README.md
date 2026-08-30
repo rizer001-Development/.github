@@ -1,16 +1,16 @@
-# 🏗️ .github
+# .github
 
 Organization-wide configuration and community health files for **[rizer001-Development](https://github.com/rizer001-Development)**.
 
 ---
 
-### 📄 Organization Docs
+### Organization Docs
 
 [![Guide](https://img.shields.io/badge/Guide-rizer001--Development-00AEFF)](https://github.com/rizer001-Development/.github/blob/main/GUIDE.md) · [![Contributing](https://img.shields.io/badge/Contributing-rizer001--Development-4CAF50)](https://github.com/rizer001-Development/.github/blob/main/CONTRIBUTING.md) · [![Security](https://img.shields.io/badge/Security-rizer001--Development-D9534F)](https://github.com/rizer001-Development/.github/blob/main/SECURITY.md) · [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-rizer001--Development-5BC0DE)](https://github.com/rizer001-Development/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ---
 
-## 📌 What is this repository?
+## What is this repository?
 
 This repository contains files that apply across the entire **rizer001-Development** organization:
 
@@ -22,7 +22,7 @@ These files are automatically referenced by GitHub across all repositories in th
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .github/
@@ -42,7 +42,7 @@ These files are automatically referenced by GitHub across all repositories in th
 
 ---
 
-## 🔄 How it works
+## How it works
 
 GitHub automatically looks for these files in the `.github` repository as a **fallback**:
 
@@ -59,7 +59,7 @@ Individual repositories can override any of these by adding their own version of
 
 ---
 
-## 📝 Contributing
+## Contributing
 
 If you want to improve these templates or guidelines:
 
@@ -69,6 +69,6 @@ If you want to improve these templates or guidelines:
 
 ---
 
-## 📄 License
+## License
 
 This repository is licensed under **AGPL-3.0**, consistent with all projects in the organization.
